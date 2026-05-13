@@ -1,0 +1,2 @@
+# SpringCloudConfigServer.properties у репозиторії
+example.property=Hello from the Config Server!
